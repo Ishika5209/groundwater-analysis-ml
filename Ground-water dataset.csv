@@ -1717,7 +1717,7 @@ Sr. No.,State_Name_With_LGD_Code,District_Name_With_LGD_Code,Block_Name_With_LGD
 1716,Karnataka_29,Chitradurga_533,Hiriyur_5811,Suragondanahalli_217115,Suragondanahalli,Suragondanahalli,Piezometer,Atal Jal,70531,14.0111,76.545,134,Semi Confined,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.9,2.65
 1717,Karnataka_29,Chitradurga_533,Hiriyur_5811,Uduvalli_217116,Uduvalli,Uduvalli,Piezometer,Atal Jal,70529,13.8832,76.5817,152,Semi Confined,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,11.64
 1718,Karnataka_29,Chitradurga_533,Hiriyur_5811,Vanivilasapura_217117,Vanivilasapura,Vanivilasapura,Bore Well,CGWB,W135400076294001,13.9,76.4944,80,Semi confined,NA,41.42,30,57.3,40.79,35.95,40.76,45.9,42.91,34.7,NA,NA,NA,NA,18.7,12.4
-1719,Karnataka_29,Chitradurga_533,Hiriyur_5811,Vanivilasapura_217117,Bharamagiri ,Bharamagiri ,Piezometer,SGWD,70503,13.9291,76.4985,43,Schist,NA,NA,NA,NA,41.22,18.1,41.2,39.4,41.95,10.3,15.3,16.4,NA,7.75,12.9,6.22
+1719,Karnataka_29,Chitradurga_533,Hiriyur_5811,Vanivilasapura_217117,BharamagiriÂ ,BharamagiriÂ ,Piezometer,SGWD,70503,13.9291,76.4985,43,Schist,NA,NA,NA,NA,41.22,18.1,41.2,39.4,41.95,10.3,15.3,16.4,NA,7.75,12.9,6.22
 1720,Karnataka_29,Chitradurga_533,Hiriyur_5811,Yalladakere_217118,Yelladakere,Yelladakere,Bore Well,SGWD,70520,13.7877,76.5655,69,Semi confined,19,23.85,27.35,35.68,NA,7.18,11.85,10.85,30.25,2.4,6.7,5.52,11.35,1.65,3.3,2.66
 1721,Karnataka_29,Chitradurga_533,Hiriyur_5811,NA,Balenahalli,Balenahalli,Bore Well,SGWD,70516BW,14.0192,76.6365,40,Semi confined,6.77,4.3,5.5,7.26,10.16,6.18,8.2,9.8,12.45,5.6,7.2,4.42,8.05,2.65,5.9,0.58
 1722,Karnataka_29,Chitradurga_533,Hiriyur_5811,NA,Hiriyur,Hiriyur,Bore Well,SGWD,70510,13.9592,76.6131,40,Semi confined,4.37,1.3,5.25,5.48,4.57,1.85,2.66,3.26,10.86,2.2,3.6,2.11,2.76,0.71,3.31,1.65
@@ -4592,7 +4592,7 @@ Sr. No.,State_Name_With_LGD_Code,District_Name_With_LGD_Code,Block_Name_With_LGD
 4591,Rajasthan_8,Kota_109,Sangod_738,Deegod_40274,Dobari,Dobari,Piezometer,SGWD,KOTPZ2019077,24.8934,76.3655,121,Shale,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.27,19.55,53.63,32.06,5.72,28.3,4.7
 4592,Rajasthan_8,Kota_109,Sangod_738,Deegod_40274,Haripura,Haripura,Dug Well,SGWD,KOTDW2015050,24.9081,76.3297,12.3,Shale,6.52,12.22,6.62,3.02,4.87,5.82,7.9,1.9,7.2,3,7.7,3.49,8,3.67,6.57,1.72
 4593,Rajasthan_8,Kota_109,Sangod_738,Deegod_40274,Rakshpuriya,Rakshpuriya,Dug Well,SGWD,KOTDW2015051,24.9304,76.3102,12.4,Shale,NA,NA,9.2,7.3,7.53,9,8.4,4.4,8.9,5.3,9,5.76,19,9.42,7.35,4.91
-4594,Rajasthan_8,Kota_109,Sangod_738,Deegod_40274,Sangod_Talchhi,Talchhi,Dug Well,SGWD,KOTAWL_162,24.9241,76.3084,18.45, Sandstone,8.1,5.1,11.9,5.7,9.95,7.5,9.65,3.3,6.7,2.4,11.2,9.1,11.9,6.5,9.18,1.5
+4594,Rajasthan_8,Kota_109,Sangod_738,Deegod_40274,Sangod_Talchhi,Talchhi,Dug Well,SGWD,KOTAWL_162,24.9241,76.3084,18.45,Â Sandstone,8.1,5.1,11.9,5.7,9.95,7.5,9.65,3.3,6.7,2.4,11.2,9.1,11.9,6.5,9.18,1.5
 4595,Rajasthan_8,Kota_109,Sangod_738,Dulet_40278,Dhoolet,Dhoolet,Piezometer,SGWD,KOTAWL_138,24.8138,76.2035,60,Sandstone,22.8,14,25.3,15.9,22.76,42.35,29.8,14.1,21.6,10.28,20.5,42.9,25.6,17.5,21.55,12.35
 4596,Rajasthan_8,Kota_109,Sangod_738,Heengi_40279,Chatarpura,Chatarpura,Piezometer,SGWD,KOTPZ2019073,24.8724,76.3517,100,Shale,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,21.13,23.34,25.66,4.53,24.7,5.85
 4597,Rajasthan_8,Kota_109,Sangod_738,Heengi_40279,Heenghi,Heenghi,Dug Well,SGWD,KOTDW2015052,24.8773,76.3226,9.8,Shale,9.8,8.2,8.6,3.65,2.2,7.05,9.15,1.4,9,3.1,9.1,3.44,9.4,4.24,7.1,2.36
@@ -4608,7 +4608,7 @@ Sr. No.,State_Name_With_LGD_Code,District_Name_With_LGD_Code,Block_Name_With_LGD
 4607,Rajasthan_8,Kota_109,Sangod_738,Kanwas_40284,Kanwas,Kanwas,Dug Well,SGWD,KOTAWL_141,24.8693,76.1309,23.5,Sandstone,8.95,8.15,10.8,8.2,9.55,11.15,15.8,6.9,10,5.78,11.8,11.4,23.5,5.3,10.16,4.75
 4608,Rajasthan_8,Kota_109,Sangod_738,Khadiya_40285,Gehun Kheri,Gehun Kheri,Dug Well,SGWD,KOTAWL_156,24.9235,76.4035,18.8,Shale,10.06,7.4,12.02,7.2,11.9,13.9,12.75,9.85,12.1,10.85,11.2,12.3,5,5.24,6.23,4.67
 4609,Rajasthan_8,Kota_109,Sangod_738,Khajoori_40286,Peesaheda,Peesaheda,Piezometer,SGWD,KOTAWL_130,24.9734,76.102,50,Shale,10.2,11,39.12,8.9,16.42,6.9,27.1,5.6,18.1,2.18,6.1,21.3,20.9,12.6,7.1,11
-4610,Rajasthan_8,Kota_109,Sangod_738,Khajoorna_40287,Kishorepura,Kishorepura,Piezometer,SGWD,KOTPZ2018033,24.9163,76.0654,67.2, Sandstone,NA,NA,NA,NA,NA,NA,NA,NA,24.8,3.18,NA,13.9,25.4,18.5,23.65,13.55
+4610,Rajasthan_8,Kota_109,Sangod_738,Khajoorna_40287,Kishorepura,Kishorepura,Piezometer,SGWD,KOTPZ2018033,24.9163,76.0654,67.2,Â Sandstone,NA,NA,NA,NA,NA,NA,NA,NA,24.8,3.18,NA,13.9,25.4,18.5,23.65,13.55
 4611,Rajasthan_8,Kota_109,Sangod_738,Kishanpura_40288,Akodiya,Akodiya,Piezometer,SGWD,KOTPZ2019068,24.8378,76.2977,46,Shale,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.98,9.77,11.89,11.27,6.35,10.65,4.35
 4612,Rajasthan_8,Kota_109,Sangod_738,Kishanpura_40288,Gadarwara_Hingi,Gadarwara,Piezometer,SGWD,KOTPZ2019078,24.8774,76.3112,100,Shale,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.2,10.47,21.19,14.54,4.9,12.6,3.45
 4613,Rajasthan_8,Kota_109,Sangod_738,Kishanpura_40288,Kishanpura,Kishanpura,Piezometer,SGWD,KOTPZ2019084,24.8859,76.295,85,Shale,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.93,10.83,28.14,23.45,14.6,25.35,10.85
@@ -4633,7 +4633,7 @@ Sr. No.,State_Name_With_LGD_Code,District_Name_With_LGD_Code,Block_Name_With_LGD
 4632,Rajasthan_8,Kota_109,Sangod_738,Labaniya_40292,Sankhera,Sankhera,Piezometer,SGWD,KOTPZ2018035,24.8839,76.4549,90,Sandstone,NA,NA,NA,NA,NA,NA,NA,11.35,11.5,4.5,12.7,9.9,10.1,8.5,11.35,7.75
 4633,Rajasthan_8,Kota_109,Sangod_738,Latoori_40294,Dungarpur,Dungarpur,Piezometer,SGWD,KOTPZ2018032,24.8817,76.4205,76.9,Sandstone,NA,NA,NA,NA,NA,NA,NA,NA,20.2,13.67,22,20.1,50.2,3.8,12.6,2.55
 4634,Rajasthan_8,Kota_109,Sangod_738,Latoori_40294,Latoori,Latoori,Piezometer,SGWD,KOTAWL_147,24.8891,76.4216,44,Sandstone,19.38,10.2,25.3,2.1,35.45,21.3,28.75,6.4,18.4,2.55,20.8,23.3,22.3,2.7,22.95,3.15
-4635,Rajasthan_8,Kota_109,Sangod_738,Loda Hera_40293,Lodhaheda,Lodhaheda,Piezometer,SGWD,KOTPZ2018034,24.8416,76.2109,86.1, Sandstone,NA,NA,NA,NA,NA,NA,NA,NA,20.9,16.9,18.47,26.76,21.15,20.5,23.45,10.65
+4635,Rajasthan_8,Kota_109,Sangod_738,Loda Hera_40293,Lodhaheda,Lodhaheda,Piezometer,SGWD,KOTPZ2018034,24.8416,76.2109,86.1,Â Sandstone,NA,NA,NA,NA,NA,NA,NA,NA,20.9,16.9,18.47,26.76,21.15,20.5,23.45,10.65
 4636,Rajasthan_8,Kota_109,Sangod_738,Loda Hera_40293,Tolya,Tolya,Piezometer,SGWD,KOTPZ2018036,24.8559,76.2117,76,Shale,NA,NA,NA,NA,NA,NA,NA,NA,21.2,17.96,21.89,22.35,23,21.6,22.1,14.95
 4637,Rajasthan_8,Kota_109,Sangod_738,Mandeeta_40297,Rajgarh,Rajgarh,Dug Well,SGWD,KOTAWL_131,25.1009,76.2099,17.6,Limestone,11.06,7.7,12.3,11.7,10.45,10.6,12,11.25,NA,10.12,11.2,9.7,13,9.35,6.9,13.92
 4638,Rajasthan_8,Kota_109,Sangod_738,Mandeeta_40297,Rajgarh (102349),Rajgarh1,Dug Well,CGWB,W250600076121801,25.1,76.205,22.9,Sandstone,11.9,9.5,12.88,8.7,11.5,3.88,4.17,10.6,11.85,5,18.6,10.51,13.3,9.75,11.9,6.85
