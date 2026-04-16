@@ -1,13 +1,13 @@
 # groundwater-analysis-ml
 
-# 🌊 Groundwater Analysis & Prediction using Machine Learning
+#  Groundwater Analysis & Prediction using Machine Learning
 
-## 📌 Overview
+##  Overview
 This project analyzes groundwater levels using real-world data (2015–2022) to understand patterns, trends, and regional variations. It also builds a machine learning model to predict groundwater levels.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze groundwater variations across time and regions  
 - Study the impact of monsoon on groundwater recharge  
 - Understand the role of aquifer types  
@@ -15,7 +15,7 @@ This project analyzes groundwater levels using real-world data (2015–2022) to 
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -23,7 +23,7 @@ This project analyzes groundwater levels using real-world data (2015–2022) to 
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 - State-wise groundwater comparison  
 - Aquifer-based analysis  
 - Distribution plots (histogram, boxplot, violin plot)  
@@ -40,19 +40,19 @@ This project analyzes groundwater levels using real-world data (2015–2022) to 
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 - Model Used: Linear Regression  
 - Evaluation Metric: R² Score (~0.96)  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - `Groundwater_Analysis_ML.ipynb` → Main notebook  
 - `dataset.csv` → Dataset used
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 This project demonstrates how data science techniques can be used to analyze environmental data and support better decision-making in groundwater management.
 
 
