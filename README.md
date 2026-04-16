@@ -2,6 +2,11 @@
 
 #  Groundwater Analysis & Prediction using Machine Learning
 
+Course: INT375 — Data Science Toolbox: Python Programming
+Author: Jaya Chourasia
+Department: B.Tech Computer Science and Engineering
+University: Lovely Professional University, Phagwara, Punjab, India
+
 ##  Overview
 This project analyzes groundwater levels using real-world data (2015–2022) to understand patterns, trends, and regional variations. It also builds a machine learning model to predict groundwater levels.
 
